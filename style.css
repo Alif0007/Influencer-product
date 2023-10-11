@@ -62,7 +62,7 @@ main {
 }
 
 .collection-card {
-    width: 329px;
+    width: 310px;
     height: 476px;
     border: 5px solid white;
     padding-left: 15px;
@@ -117,6 +117,7 @@ main {
 .gear-image {
     width: 40%;
     margin-left: 20px;
+    margin-right: 60px;
 }
 
 .gear-part {
